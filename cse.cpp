@@ -3,5 +3,5 @@
 using namespace std;
 int main()
 {
-    cout<<"My file file"<<endl;
+    cout<<"My second file"<<endl;
 }
